@@ -1,7 +1,11 @@
-Projeto de Controle de Jornada de Tabalho desenvolvido no BootCamp Santander FullStack Developer
+#Projeto de Controle de Jornada de Trabalho desenvolvido no BootCamp FullStack Developer
 
-#spring
-#java
-#api
-#jpa
-#H2 DB
+##Tecnologias Utilizadas:
+### #java
+### #spring
+### #maven
+### #swagger
+### #api
+### #jpa
+### #jdbc
+### #H2db
