@@ -1,4 +1,4 @@
-#Projeto de Controle de Jornada de Trabalho desenvolvido no BootCamp FullStack Developer
+#Sistema de Controle de Jornada de Trabalho desenvolvido no BootCamp FullStack Developer
 
 ##Tecnologias Utilizadas:
 ### #java
